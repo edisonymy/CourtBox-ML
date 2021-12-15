@@ -38,3 +38,10 @@ not able to use it to consider offending histories
 ## Australia: 
 link: https://www.bocsar.nsw.gov.au/
 Notes: need to pay and jump through hurdles to get the data
+
+## Prison:
+link:https://www.icpsr.umich.edu/web/NACJD/studies/37692/datadocumentation#  
+**notes**: 
+unit level  
+30,000+ records
+Many variables (1000+)
