@@ -43,5 +43,8 @@ Notes: need to pay and jump through hurdles to get the data
 link:https://www.icpsr.umich.edu/web/NACJD/studies/37692/datadocumentation#  
 **notes**: 
 unit level  
-30,000+ records
-Many variables (1000+)
+20,000+ records
+Many variables (2,000+)
+
+## US Incident-based dataset:
+link: https://www.icpsr.umich.edu/web/NACJD/studies/37066/datadocumentation
