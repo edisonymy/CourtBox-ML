@@ -48,3 +48,35 @@ Many variables (2,000+)
 
 ## US Incident-based dataset:
 link: https://www.icpsr.umich.edu/web/NACJD/series/128
+Selected Variables: 
+1. Location  (city, state, region)
+2. Incident Date  
+3. Location population size  
+4. Offence  
+5. Offence Completed/Attempted  
+6. Offender intoxicated/not  
+7. Offence detailed location (e.g. bar, bus, bank, etc)  
+8. Number of premises entered  
+9. Method of entry  
+10. Type of criminal activity (e.g. Gang, buying/selling, exploiting children, etc)  
+11. Type of weapon/force involved (e.g. gun, RPG, etc)  
+12. Bias Motivation (e.g. anti-black, anti-catholic, etc)  
+13. Type of Property loss (e.g. burned, recovered, destroyed)  
+14. Property description (e.g. bus, bicycle, aircraft, etc)  
+15. Value of property (1 if unknown)  
+16. Suspected drug type  
+17. Drug quantity    
+18. Victim type (e.g. individual, company, government)  
+19. Police Assignment (e.g. two officiers, one officier)  
+20. Victim age  
+21. Victim sex  
+22. Victim Race  
+23. Victim resident status  
+24. Agravated assault circumstances  
+25. Type of injury  
+26. Victim-offender relationship  
+27. Offender age
+28. Offender sex
+29. Offender race
+30. Arrest data
+31. Type of arrest
